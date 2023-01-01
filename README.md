@@ -1,4 +1,4 @@
-# Wazirx Staking Interface
+# Wazirx Staking Interfac
 
 Staking Interface for Wazirx
 
